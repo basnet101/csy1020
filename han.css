@@ -1,0 +1,86 @@
+.fa{
+	background-color: blue;
+	font-size: 25px;
+	width: 50%;
+	float: left;
+	margin-bottom: 5px;
+	height: 45px;
+
+
+}
+.me{
+	background-color: green;
+	height: 45px;
+	width: 50%;
+	float: right;
+	font-size: 25px;
+
+
+}
+#den{
+	background-color: red;
+	clear: both;
+	padding: 30px;
+	margin-top: 30px;
+
+
+
+
+}
+#we{
+	background-color: yellow;
+	width: 90px;
+	height: 40px;
+
+
+
+}
+#can{
+	background-color: yellow;
+	width: 90px;
+	height: 40px;
+	margin-left: 100px;
+	margin-top: -40px;
+
+}
+#go{
+	background-color: yellow;
+	width: 90px;
+	height: 40px;
+	margin-left: 200PX;
+	margin-top: -40px;
+
+}
+#home{
+	background-color: yellow;
+	width: 90px;
+	height: 40px;
+	margin-left: 300px;
+	margin-top: -40px;
+}
+#at{
+	background-color: blue;
+	width:  30%;
+	float: left;
+	clear: both;
+	margin-bottom: 3px;
+	margin-left: 4px;
+	font-size: 30px;
+	
+
+}
+#sat{
+	background-color: yellow;
+	margin-bottom: 10px;
+	float: left;
+	font-size: 30px;
+	width:  69%;
+	
+}
+.foot{
+	clear: both;
+	background-color: yellow;
+	font-size: 30px;
+	text-align: center;
+
+}
