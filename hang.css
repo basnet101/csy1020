@@ -1,0 +1,22 @@
+.hello{
+	background-color: black;
+	
+}
+#at{
+	background-color: red;
+	display:inline-block;
+	margin: 10px;
+	padding: 10px;
+}
+#it{
+	background-color: red;
+	display:inline-block;
+	margin-left: 10px;
+	padding: 10px;
+}
+#on{
+	background-color: red;
+	display:inline-block;
+	margin: 10px;
+	padding: 10px;
+}
