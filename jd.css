@@ -1,0 +1,46 @@
+@media screen and (max-width: 500px){
+	body{
+		background-color: red;
+	}
+}
+#second{
+	background-color: blue;
+	
+	height:45px;
+	font-size: 25px;
+	text-align: center;
+
+}
+#first{
+	background-color: #5d5de4;
+	text-align: center;
+	height: 45px;
+
+
+}
+#third{
+	background-color: #7390da;
+	height: 200px;
+	font-size: 34px;
+	float: left;
+	width: 50%
+
+}
+#fourth{
+	background-color: blue;
+	height: 200px;
+	float: right;
+	font-size: 34px;
+	width: 50%;
+
+
+
+}
+.firth{
+	background-color:#4a4acf;
+	height: 250px;
+	text-align: center;
+	
+
+
+}
