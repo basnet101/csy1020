@@ -1,0 +1,21 @@
+table,tr,td{
+	border: 5px solid black;
+
+}
+.maintable{
+	background-color: blue;
+	border-collapse: collapse;
+	text-align: center;
+	width: 160px;
+}
+
+.tom{
+	background-color:red; 
+	border: 10px solid blue;
+	width: 85px;
+}
+.jerry{
+	background-color: blue;
+	border: 10px solid red;
+	width: 8%;
+}
