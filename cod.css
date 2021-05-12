@@ -1,0 +1,31 @@
+body{
+	background-color: purple;
+
+}
+#second{
+	background-color: #8383e8;
+	height: 50px;
+
+}
+#third{
+	background-color: orange;
+	width: 50%;
+	float: left;
+	height: 200px;
+
+
+}
+#fourth{
+	background-color: green;
+	width: 50%;
+	float: right;
+	height: 200px;
+
+
+}
+.firth{
+	background-color: #62ae7c;
+	height: 300px;
+	
+
+}
